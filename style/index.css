@@ -1,0 +1,94 @@
+#navbar{
+    height: 70px;
+    width: 100%;
+    border: 1px #faead8;
+    display: flex;
+    background-color: #faead8;
+}
+#search_input{
+    width: 300%;
+    height: 30px;
+    border-radius: 20px;
+    margin-left: 130px;
+    margin-top: 18px;
+    font-size: 20px;
+
+}
+#navbar>a>h1{
+    margin-left: 25px;
+}
+
+#sidebar{
+    height: 650px;
+    width: 20%;
+    border: 1px solid #faead8;
+    position: sticky;
+    background-color: #faead8;
+}
+
+#sidebar>h2{
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+#in{
+    height: 30px;
+    width: 180px;
+    font-size: 20px;
+    border: 1px solid;
+    background-color: #008080;
+    color: black;
+    font-weight: 600;
+    margin-left: 20px;
+}
+#ch{
+    height: 30px;
+    width: 180px;
+    font-size: 20px;
+    border: 1px solid;
+    background-color: #008080;
+    color: black;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#us{
+    height: 30px;
+    width: 180px;
+    font-size: 20px;
+    border: 1px solid;
+    background-color: #008080;
+    color: black;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#uk{
+    height: 30px;
+    width: 180px;
+    font-size: 20px;
+    border: 1px solid;
+    background-color: #008080;
+    color: black;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#nz{ height: 30px;
+    width: 180px;
+    font-size: 20px;
+    border: 1px solid;
+    background-color: #008080;
+    color: black;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#results{
+    height: 1000px;
+    width: 78%;
+    border: 1px solid;
+    margin-left: 21%;
+    margin-top: -600px;
+}
+    
